@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloFriend/HelloFriend.iml" filepath="$PROJECT_DIR$/HelloFriend/HelloFriend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MakeFriend/MakeFriend.iml" filepath="$PROJECT_DIR$/MakeFriend/MakeFriend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parent/Parent.iml" filepath="$PROJECT_DIR$/Parent/Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestWeb/TestWeb.iml" filepath="$PROJECT_DIR$/TestWeb/TestWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfs-demo/hdfs-demo.iml" filepath="$PROJECT_DIR$/hdfs-demo/hdfs-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapreduce-demo/mapreduce-demo.iml" filepath="$PROJECT_DIR$/mapreduce-demo/mapreduce-demo.iml" />
+    </modules>
+  </component>
+</project>
